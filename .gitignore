@@ -1,0 +1,36 @@
+# Python
+*.pyc
+__pycache__/
+env/
+venv/
+*.pyo
+*.pyd
+.Python
+
+# Django
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.mo
+*.pyo
+*.pyd
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code
+.vscode/
+
+# macOS/Windows
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+
+# Docker
+*.pid
+*.tar
+*.log
+docker-compose.override.yml
